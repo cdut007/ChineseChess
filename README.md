@@ -1,5 +1,5 @@
 # ChineseChess
 
-use swift language
+use swift language  and spriteKit
 
 ![Movie](chess.jpg)
