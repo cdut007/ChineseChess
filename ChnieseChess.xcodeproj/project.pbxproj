@@ -71,7 +71,7 @@
 		D51705C91A7BC55300E28470 = {
 			isa = PBXGroup;
 			children = (
-				D51705D41A7BC55300E28470 /* ChnieseChess */,
+				D51705D41A7BC55300E28470 /* Chess */,
 				D51705EE1A7BC55300E28470 /* ChnieseChessTests */,
 				D51705D31A7BC55300E28470 /* Products */,
 			);
@@ -86,7 +86,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D51705D41A7BC55300E28470 /* ChnieseChess */ = {
+		D51705D41A7BC55300E28470 /* Chess */ = {
 			isa = PBXGroup;
 			children = (
 				D5C1F53A1A85207B0000C588 /* book.dat */,
@@ -102,7 +102,7 @@
 				D51705E41A7BC55300E28470 /* LaunchScreen.xib */,
 				D51705D51A7BC55300E28470 /* Supporting Files */,
 			);
-			path = ChnieseChess;
+			path = Chess;
 			sourceTree = "<group>";
 		};
 		D51705D51A7BC55300E28470 /* Supporting Files */ = {
